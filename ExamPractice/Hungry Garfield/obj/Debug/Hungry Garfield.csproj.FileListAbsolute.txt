@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Hungry Garfield\bin\Debug\Hungry Garfield.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Hungry Garfield\bin\Debug\Hungry Garfield.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Hungry Garfield\bin\Debug\Hungry Garfield.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Hungry Garfield\obj\Debug\Hungry Garfield.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Hungry Garfield\obj\Debug\Hungry Garfield.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Hungry Garfield\obj\Debug\Hungry Garfield.pdb

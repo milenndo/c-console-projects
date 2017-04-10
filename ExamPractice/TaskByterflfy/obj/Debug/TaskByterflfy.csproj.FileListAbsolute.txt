@@ -1,0 +1,5 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\TaskByterflfy\bin\Debug\TaskByterflfy.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\TaskByterflfy\bin\Debug\TaskByterflfy.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\TaskByterflfy\bin\Debug\TaskByterflfy.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\TaskByterflfy\obj\Debug\TaskByterflfy.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\TaskByterflfy\obj\Debug\TaskByterflfy.pdb

@@ -1,0 +1,5 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Grades\bin\Debug\Grades.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Grades\bin\Debug\Grades.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Grades\bin\Debug\Grades.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Grades\obj\Debug\Grades.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Grades\obj\Debug\Grades.pdb

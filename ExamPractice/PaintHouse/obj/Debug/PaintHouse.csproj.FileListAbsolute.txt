@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\PaintHouse\bin\Debug\PaintHouse.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\PaintHouse\bin\Debug\PaintHouse.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\PaintHouse\bin\Debug\PaintHouse.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\PaintHouse\obj\Debug\PaintHouse.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\PaintHouse\obj\Debug\PaintHouse.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\PaintHouse\obj\Debug\PaintHouse.pdb

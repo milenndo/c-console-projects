@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Combination\obj\Debug\Combination.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Combination\bin\Debug\Combination.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Combination\bin\Debug\Combination.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Combination\bin\Debug\Combination.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Combination\obj\Debug\Combination.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Combination\obj\Debug\Combination.pdb

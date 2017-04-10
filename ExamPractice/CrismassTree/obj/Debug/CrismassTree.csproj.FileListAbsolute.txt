@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\CrismassTree\obj\Debug\CrismassTree.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\CrismassTree\bin\Debug\CrismassTree.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\CrismassTree\bin\Debug\CrismassTree.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\CrismassTree\bin\Debug\CrismassTree.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\CrismassTree\obj\Debug\CrismassTree.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\CrismassTree\obj\Debug\CrismassTree.pdb

@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Vacancion\bin\Debug\Vacancion.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Vacancion\bin\Debug\Vacancion.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Vacancion\bin\Debug\Vacancion.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Vacancion\obj\Debug\Vacancion.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Vacancion\obj\Debug\Vacancion.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Vacancion\obj\Debug\Vacancion.pdb

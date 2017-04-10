@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\ChangeTiles\bin\Debug\ChangeTiles.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\ChangeTiles\bin\Debug\ChangeTiles.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\ChangeTiles\bin\Debug\ChangeTiles.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\ChangeTiles\obj\Debug\ChangeTiles.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\ChangeTiles\obj\Debug\ChangeTiles.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\ChangeTiles\obj\Debug\ChangeTiles.pdb

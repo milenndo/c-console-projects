@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\practiss\bin\Debug\practiss.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\practiss\bin\Debug\practiss.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\practiss\bin\Debug\practiss.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\practiss\obj\Debug\practiss.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\practiss\obj\Debug\practiss.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\practiss\obj\Debug\practiss.pdb

@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\fishPriceBazar\bin\Debug\fishPriceBazar.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\fishPriceBazar\bin\Debug\fishPriceBazar.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\fishPriceBazar\bin\Debug\fishPriceBazar.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\fishPriceBazar\obj\Debug\fishPriceBazar.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\fishPriceBazar\obj\Debug\fishPriceBazar.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\fishPriceBazar\obj\Debug\fishPriceBazar.pdb

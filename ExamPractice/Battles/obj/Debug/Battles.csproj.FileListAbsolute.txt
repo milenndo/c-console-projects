@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Battles\bin\Debug\Battles.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Battles\bin\Debug\Battles.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Battles\bin\Debug\Battles.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Battles\obj\Debug\Battles.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Battles\obj\Debug\Battles.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Battles\obj\Debug\Battles.pdb

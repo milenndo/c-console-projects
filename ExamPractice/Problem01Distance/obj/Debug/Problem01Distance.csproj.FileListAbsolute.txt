@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Problem01Distance\bin\Debug\Problem01Distance.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Problem01Distance\bin\Debug\Problem01Distance.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Problem01Distance\bin\Debug\Problem01Distance.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Problem01Distance\obj\Debug\Problem01Distance.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Problem01Distance\obj\Debug\Problem01Distance.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Problem01Distance\obj\Debug\Problem01Distance.pdb

@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\CristmasHat\bin\Debug\CristmasHat.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\CristmasHat\bin\Debug\CristmasHat.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\CristmasHat\bin\Debug\CristmasHat.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\CristmasHat\obj\Debug\CristmasHat.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\CristmasHat\obj\Debug\CristmasHat.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\CristmasHat\obj\Debug\CristmasHat.pdb

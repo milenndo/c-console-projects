@@ -1,0 +1,6 @@
+c:\users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Problem01CakeTycoon\bin\Debug\Problem01CakeTycoon.exe.config
+c:\users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Problem01CakeTycoon\bin\Debug\Problem01CakeTycoon.exe
+c:\users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Problem01CakeTycoon\bin\Debug\Problem01CakeTycoon.pdb
+c:\users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Problem01CakeTycoon\obj\Debug\Problem01CakeTycoon.csprojResolveAssemblyReference.cache
+c:\users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Problem01CakeTycoon\obj\Debug\Problem01CakeTycoon.exe
+c:\users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Problem01CakeTycoon\obj\Debug\Problem01CakeTycoon.pdb

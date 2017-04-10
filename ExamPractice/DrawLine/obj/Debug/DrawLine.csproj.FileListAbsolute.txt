@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\DrawLine\obj\Debug\DrawLine.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\DrawLine\bin\Debug\DrawLine.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\DrawLine\bin\Debug\DrawLine.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\DrawLine\bin\Debug\DrawLine.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\DrawLine\obj\Debug\DrawLine.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\DrawLine\obj\Debug\DrawLine.pdb

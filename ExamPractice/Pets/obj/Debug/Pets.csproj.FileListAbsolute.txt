@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Pets\bin\Debug\Pets.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Pets\bin\Debug\Pets.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Pets\bin\Debug\Pets.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Pets\obj\Debug\Pets.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Pets\obj\Debug\Pets.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\Pets\obj\Debug\Pets.pdb

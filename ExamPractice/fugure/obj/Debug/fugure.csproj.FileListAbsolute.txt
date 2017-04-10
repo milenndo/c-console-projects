@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\fugure\bin\Debug\fugure.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\fugure\bin\Debug\fugure.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\fugure\bin\Debug\fugure.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\fugure\obj\Debug\fugure.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\fugure\obj\Debug\fugure.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\ExamPractice\fugure\obj\Debug\fugure.pdb
