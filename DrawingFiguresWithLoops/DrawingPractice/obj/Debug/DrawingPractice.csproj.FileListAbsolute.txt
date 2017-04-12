@@ -1,0 +1,6 @@
+c:\users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DrawingPractice\bin\Debug\DrawingPractice.exe.config
+c:\users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DrawingPractice\bin\Debug\DrawingPractice.exe
+c:\users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DrawingPractice\bin\Debug\DrawingPractice.pdb
+c:\users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DrawingPractice\obj\Debug\DrawingPractice.csprojResolveAssemblyReference.cache
+c:\users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DrawingPractice\obj\Debug\DrawingPractice.exe
+c:\users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DrawingPractice\obj\Debug\DrawingPractice.pdb

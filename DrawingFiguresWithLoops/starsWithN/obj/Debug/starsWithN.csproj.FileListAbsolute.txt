@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\starsWithN\bin\Debug\starsWithN.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\starsWithN\bin\Debug\starsWithN.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\starsWithN\bin\Debug\starsWithN.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\starsWithN\obj\Debug\starsWithN.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\starsWithN\obj\Debug\starsWithN.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\starsWithN\obj\Debug\starsWithN.pdb

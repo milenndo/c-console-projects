@@ -1,0 +1,5 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DiamondFromStars\bin\Debug\DiamondFromStars.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DiamondFromStars\bin\Debug\DiamondFromStars.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DiamondFromStars\bin\Debug\DiamondFromStars.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DiamondFromStars\obj\Debug\DiamondFromStars.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DiamondFromStars\obj\Debug\DiamondFromStars.pdb

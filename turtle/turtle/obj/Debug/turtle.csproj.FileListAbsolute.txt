@@ -1,0 +1,4 @@
+c:\users\devmildo\documents\visual studio 2017\Projects\turtle\turtle\obj\Debug\turtle.csprojResolveAssemblyReference.cache
+c:\users\devmildo\documents\visual studio 2017\Projects\turtle\turtle\obj\Debug\turtle.Form1.resources
+c:\users\devmildo\documents\visual studio 2017\Projects\turtle\turtle\obj\Debug\turtle.Properties.Resources.resources
+c:\users\devmildo\documents\visual studio 2017\Projects\turtle\turtle\obj\Debug\turtle.csproj.GenerateResource.Cache

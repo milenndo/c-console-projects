@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

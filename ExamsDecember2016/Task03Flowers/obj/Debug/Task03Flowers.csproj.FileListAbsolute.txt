@@ -1,0 +1,6 @@
+c:\users\devmildo\documents\visual studio 2017\Projects\ExamsDecember2016\Task03Flowers\bin\Debug\Task03Flowers.exe.config
+c:\users\devmildo\documents\visual studio 2017\Projects\ExamsDecember2016\Task03Flowers\bin\Debug\Task03Flowers.exe
+c:\users\devmildo\documents\visual studio 2017\Projects\ExamsDecember2016\Task03Flowers\bin\Debug\Task03Flowers.pdb
+c:\users\devmildo\documents\visual studio 2017\Projects\ExamsDecember2016\Task03Flowers\obj\Debug\Task03Flowers.csprojResolveAssemblyReference.cache
+c:\users\devmildo\documents\visual studio 2017\Projects\ExamsDecember2016\Task03Flowers\obj\Debug\Task03Flowers.exe
+c:\users\devmildo\documents\visual studio 2017\Projects\ExamsDecember2016\Task03Flowers\obj\Debug\Task03Flowers.pdb

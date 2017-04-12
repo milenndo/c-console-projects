@@ -1,0 +1,6 @@
+c:\users\devmildo\documents\visual studio 2017\Projects\DrawFigures\figures\bin\Debug\figures.exe.config
+c:\users\devmildo\documents\visual studio 2017\Projects\DrawFigures\figures\bin\Debug\figures.exe
+c:\users\devmildo\documents\visual studio 2017\Projects\DrawFigures\figures\bin\Debug\figures.pdb
+c:\users\devmildo\documents\visual studio 2017\Projects\DrawFigures\figures\obj\Debug\figures.csprojResolveAssemblyReference.cache
+c:\users\devmildo\documents\visual studio 2017\Projects\DrawFigures\figures\obj\Debug\figures.exe
+c:\users\devmildo\documents\visual studio 2017\Projects\DrawFigures\figures\obj\Debug\figures.pdb

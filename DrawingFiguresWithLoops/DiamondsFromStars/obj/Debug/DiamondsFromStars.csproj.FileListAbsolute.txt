@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DiamondsFromStars\bin\Debug\DiamondsFromStars.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DiamondsFromStars\bin\Debug\DiamondsFromStars.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DiamondsFromStars\bin\Debug\DiamondsFromStars.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DiamondsFromStars\obj\Debug\DiamondsFromStars.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DiamondsFromStars\obj\Debug\DiamondsFromStars.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\DiamondsFromStars\obj\Debug\DiamondsFromStars.csprojResolveAssemblyReference.cache

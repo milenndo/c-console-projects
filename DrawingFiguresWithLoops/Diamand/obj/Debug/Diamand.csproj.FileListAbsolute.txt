@@ -1,0 +1,6 @@
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\Diamand\bin\Debug\Diamand.exe.config
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\Diamand\bin\Debug\Diamand.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\Diamand\bin\Debug\Diamand.pdb
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\Diamand\obj\Debug\Diamand.csprojResolveAssemblyReference.cache
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\Diamand\obj\Debug\Diamand.exe
+C:\Users\devmildo\documents\visual studio 2017\Projects\DrawingFiguresWithLoops\Diamand\obj\Debug\Diamand.pdb
