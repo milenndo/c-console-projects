@@ -4,76 +4,66 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace task06
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            
-
-namespace Problem05Hourglass
+namespace Task06
 {
     class Program
     {
         static void Main()
         {
-            int n = int.Parse(Console.ReadLine());
+            int N = int.Parse(Console.ReadLine());
+            int M = int.Parse(Console.ReadLine());
+            int konNum = int.Parse(Console.ReadLine());
 
-            // draw clock  height and width 2 * n + 1;
-
-            string stars = new string('*', 2 * n + 1 );
-            Console.WriteLine(stars);
-            int width = 2 * n + 1;
-            int height = 2 * n + 1;
-            string dot = (".");
-            string star = ("*");
-            string monkey = ("@");
+            int move = 0;                                      
+            int sumN = 0;
+            int sumM = 0;
 
 
-            //up part
-            Console.WriteLine(dot + star + new string(' ', 2 * n + 1 - 4) + star + dot);
-
-
-
-            for (int i = 2; i < n; i++)
+            while (true)
             {
-                Console.WriteLine(new string('.', i) + "*" + new string('@',width/2 - 1 - i ) + new string('@', n  - i) + "*" + new string('.', i ));
+                for (int numN = 1; numN <= N; numN++)
+                {
+                    sumN = N * 2;
+                    move++;
+                    sumN += sumN * numN;
+                    //Console.WriteLine(sumN);
+
+                    if (sumN >= konNum)
+                    {
+                        Console.WriteLine($"{move} moves");
+                        Console.WriteLine($"Score: {sumN} >= {konNum}");
+                        break;
+                    }
+
+                }
 
 
-            }
-            Console.Write(new string('.', width / 2) + "*" + new string('.', width / 2));
+                for (int numM = M; numM >= 0; numM--)
+                {
+                    sumM = M * 3;
+                    move++;
+                    sumM += sumM * numM;
+                    Console.WriteLine(sumM);
 
+
+
+                    if (true)
+                    {
+                        Console.WriteLine($"{move} moves");
+                        Console.WriteLine($"Score: {sumM} >= {konNum}");
+                        break;
+                    }
+
+                }
+            }                                                   
             
-            Console.WriteLine();
-            // down part
-            for (int i = width / 2; i > 2; i--)
-            {
-                Console.WriteLine(new string('.', i -1) + "*" + new string(' ', width/2 - i) + "@" + new string(' ', width/2 - i) + "*" +  new string('.', i - 1));
-               
-            }
-            
-            Console.WriteLine("." + "*" + new string ('@', width - 4) + "*" + ".");
+            //int sum = sumN + sumM;
+            //Console.WriteLine(sum);                                               
+           
 
 
 
 
-
-
-
-
-            Console.WriteLine(stars);
-            
-
-
-
-
-
-
-
-        }
-    }
-}
 
         }
     }
